@@ -21,7 +21,7 @@
 title: Sarah's 676 Jekyll Site
 email: dababneh@umich.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Creating a new Jekyll site for fun!
+  Creating a new Jekyll site for fun! This is a test site.
 baseurl: "/"
 url: "https://dababnehumich.github.io/test-jekyll-2025"
 twitter_username: jekyllrb
